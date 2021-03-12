@@ -34,4 +34,4 @@ Jogo criado no curso do ProgramadorBr com algumas alterações minhas.
 * Cores no fundo e animações simples
 
 
-[Meu Linkedin]<https://www.linkedin.com/in/kaio-matos-9532271a5>
+[Meu Linkedin](https://www.linkedin.com/in/kaio-matos-9532271a5)
