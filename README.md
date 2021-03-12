@@ -28,7 +28,10 @@ Jogo criado no curso do ProgramadorBr com algumas alterações minhas.
 
 ### Acrescentado por mim até o momento:
 
-Inserir os jogadores
-Remover os jogadores
-Botão de resetar a partida
-Cores no fundo e animações simples
+* Inserir os jogadores
+* Remover os jogadores
+* Botão de resetar a partida
+* Cores no fundo e animações simples
+
+
+[Meu Linkedin]<https://www.linkedin.com/in/kaio-matos-9532271a5>
