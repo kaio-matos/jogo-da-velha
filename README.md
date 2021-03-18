@@ -2,6 +2,8 @@
 
 Jogo criado no curso do ProgramadorBr com algumas alterações minhas.
 
+[Site]( https://kaio-matos.github.io/jogo_da_velha/)
+
 ## Tela inicial
 
 ![image](./README/velha-state-0.png)
